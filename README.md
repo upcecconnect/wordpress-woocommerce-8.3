@@ -14,6 +14,11 @@
 
 ## Встановлення
 
+### Версія 9.0.0
+- видалити стару версію із wordpress стандартними методами (deactivate, delete)
+- встановити нову версію стандартними средствами wordpress (upload plugin)
+
+### Версія 8.х
 1. Завантажте плагін з GitHub та розпакуйте архів
 2. Перенесіть папку `woocommerce-ecommerceconnect-gateway` в директорію `wp-content/plugins`
 3. В адмін-панелі WordPress перейдіть в **Плагіни → Встановлені плагіни**, активуйте **eCommerceConnect Gateway**
